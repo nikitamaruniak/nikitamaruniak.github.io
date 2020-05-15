@@ -1,6 +1,7 @@
 ---
 title: Nikita Maruniak's CV
 permalink: /index.html
+layout: default
 ---
 
 ## CONTACTS
