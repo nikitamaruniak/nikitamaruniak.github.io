@@ -1,9 +1,18 @@
 ---
 title: Nikita Maruniak's CV
-description: Software Engineer from Kyiv, Ukraine
+permalink: /
 ---
 
+## CONTACTS
+
+Email: nikita /dot/ marunyak /at/ gmail /dot/ com
+
+GitHub: [https://github.com/nikitamaruniak](https://github.com/nikitamaruniak)
+
+LinkedIn: [https://www.linkedin.com/in/nikita-maruniak/](https://www.linkedin.com/in/nikita-maruniak/)
+
 ## GOAL
+
 To enhance team of passionate people building small, rock solid, and fast products.
 
 ## PROFILE SUMMARY
@@ -34,7 +43,7 @@ Tasks performed:
 * Did dozens of technical interviews with more than 10 successful hires.
 * Provided technical support for internal and external clients.
 
-Technologies: Python, HTTP API, web and mobile applications, Docker, NoSQL, SQL
+Technologies: Python, HTTP API, web and mobile applications, Docker, NoSQL, SQL, Linux
 
 Tools: Python 2/3, Django, CouchDB, Redis, Solr, PostgreSQL, GitLab CI, pytest, Docker Compose, Kubernetes, Prometheus, Grafana, Kibana, Sentry, git, PyCharm
 
