@@ -1,6 +1,6 @@
 ---
 title: Nikita Maruniak's CV
-permalink: /
+permalink: /index.html
 ---
 
 ## CONTACTS
