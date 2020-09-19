@@ -18,7 +18,7 @@ To enhance team of passionate people building small, rock solid, and fast produc
 
 ## PROFILE SUMMARY
 
-* more than 10 years of experience in software development, focused on software usability, maximum value for customer, efficient process and code quality
+* Focused on software usability, maximum value for customers, efficient processes and code quality
 * Have experience in analysis, refactoring, and evolving legacy systems
 * Worked in distributed and global teams
 * Encourage the team to improve, lead by example, share knowledge, bring new ideas
