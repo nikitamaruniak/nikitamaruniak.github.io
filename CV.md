@@ -27,6 +27,12 @@ To enhance team of passionate people building small, rock solid, and fast produc
 
 ## WORK EXPERIENCE
 
+### Nov 2020 - Present - RetargetApp [https://retargetapp.com](https://retargetapp.com)
+
+Project: RetargetApp is a web app that runs automated ads for e-shop owners.
+
+Project Role: Senior developer
+
 ### May 2018 – May 2020 – Zakaz Ukraine, [https://zakaz.ua](https://zakaz.ua)
 
 Project: Zakaz.ua is a leading grocery delivery service in Ukraine that fulfills and delivers orders from major grocery retail chains.
