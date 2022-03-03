@@ -54,7 +54,7 @@ Technologies: Python, HTTP API, web and mobile applications, Docker, NoSQL, SQL,
 
 Tools: Python 2/3, Django, CouchDB, Redis, Solr, PostgreSQL, GitLab CI, pytest, Docker Compose, Kubernetes, Prometheus, Grafana, Kibana, Sentry, git, PyCharm
 
-### Feb 2018 – Apr 2018 - EPAM Systems, [https://www.epam.com](https://www.epam.com)
+### Feb 2018 – Apr 2018 - Outsource
 
 Project: online sports betting for European market
 
@@ -66,7 +66,7 @@ Technologies: .NET, HTTP, web applications, SQL
 
 Tools: Microsoft SQL Server, C#, ASP.NET WebForms, WCF, Visual Studio, git, TeamCity, Resharper,  Octopus Deploy
 
-### Dec 2016 – Jan 2018 - EPAM Systems, [https://www.epam.com](https://www.epam.com)
+### Dec 2016 – Jan 2018 - Outsource
 
 Project: Developing a new set of tools to simplify a process producing electronic document forms in different file formats.
 
@@ -86,7 +86,7 @@ Technologies: Windows, .NET, COM, HTTP, web services, SQL
 
 Tools: Microsoft SQL Server, C#, IIS, WCF, WPF, Web API, Visual Studio,  Resharper, SQL Server Management Studio, Octopus Deploy, TFS, PowerShell, ClickOnce
 
-### Nov 2012 – Nov 2016 - EPAM Systems, [https://www.epam.com](https://www.epam.com)
+### Nov 2012 – Nov 2016 - Outsource
 
 Project: Investor relationship management solution for capital markets professionals and corporations.
 
