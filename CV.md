@@ -6,7 +6,7 @@ layout: default
 
 ## CONTACTS
 
-Email: nikita /dot/ marunyak /at/ gmail /dot/ com
+Email: bbtrak7rm@mozmail.com
 
 GitHub: [https://github.com/nikitamaruniak](https://github.com/nikitamaruniak)
 
@@ -27,9 +27,9 @@ To enhance team of passionate people building small, rock solid, and fast produc
 
 ## WORK EXPERIENCE
 
-### Nov 2020 - Present - RetargetApp [https://retargetapp.com](https://retargetapp.com)
+### Nov 2020 - Present - Adwisely [https://adwisely.com](https://adwisely.com)
 
-Project: RetargetApp is a web app that runs automated ads for e-shop owners.
+Project: Adwisely is a web app that runs automated ads for e-shop owners.
 
 Project Role: Senior developer
 
