@@ -6,7 +6,7 @@ layout: default
 
 ## CONTACTS
 
-Email: bbtrak7rm@mozmail.com
+Email: nikita.marunyak@gmail.com
 
 GitHub: [https://github.com/nikitamaruniak](https://github.com/nikitamaruniak)
 
@@ -27,11 +27,36 @@ To enhance team of passionate people building small, rock solid, and fast produc
 
 ## WORK EXPERIENCE
 
-### Nov 2020 - Present - Adwisely [https://adwisely.com](https://adwisely.com)
+### Nov 2020 - Jul 2023 - Adwisely [https://adwisely.com](https://adwisely.com)
 
 Project: Adwisely is a web app that runs automated ads for e-shop owners.
 
-Project Role: Senior developer
+Team size: 10+ members
+
+Project Role: Senior developer/tech lead
+
+Tasks performed:
+
+* Introduced a sandbox for Facebook, Google, Shopify, and other APIs to
+  facilitate development and testing of the app. This work led to creation
+  of auto-tests for the most critical use-cases.
+* Moved the application and access logs to DataDog.
+* Introduced the PostgreSQL Logical Replication for partial DB replication between OLTP and OLAP databases.
+* Led the company name change from "RetargetApp" to "Adwisely".
+* Led technical revamp of the customer onboarding flow that made it possible to offer clients different marketing strategies depending on their needs and simultaneously improve its UX.
+* Led a GDPR compliance project.
+* Led the move from a pay-as-you-go to a subscription business model.
+* Managed 6 Python developers. Hired 2 senior developers.
+* Introduced incident retrospectives.
+* Moved the app development from the git flow to the trunk-based development.
+* Moved the application deployment script from developer machines to the CI
+  (BitBucket).
+* Introduced automatic quality checks for the Python code running as a
+  pre-commit hook and in the CI (BitBucket) - unit tests, coverage, black, isort, flake8.
+
+Technologies: Cloud, Python, Integration with external HTTP APIs, Docker, SQL, Linux
+
+Tools: Python 3, Django 3, Celery, Redis, PostgreSQL, AWS, BitBucket CI, Docker Compose, DataDog, Sentry, git, PyCharm, mbtest
 
 ### May 2018 – May 2020 – Zakaz Ukraine, [https://zakaz.ua](https://zakaz.ua)
 
