@@ -6,7 +6,7 @@ layout: default
 
 ## CONTACTS
 
-Email: nikita.marunyak@gmail.com
+Email: [nikita.marunyak@gmail.com](mailto:nikita.marunyak@gmail.com)
 
 GitHub: [https://github.com/nikitamaruniak](https://github.com/nikitamaruniak)
 
