@@ -10,8 +10,6 @@ Email: [nikita.marunyak@gmail.com](mailto:nikita.marunyak@gmail.com)
 
 GitHub: [https://github.com/nikitamaruniak](https://github.com/nikitamaruniak)
 
-LinkedIn: [https://www.linkedin.com/in/nikita-maruniak/](https://www.linkedin.com/in/nikita-maruniak/)
-
 ## GOAL
 
 To enhance team of passionate people building small, rock solid, and fast products.
